@@ -17,7 +17,7 @@
     <br />
     <a href="https://github.com/sahilarun/iSoulZ/releases/tag/v0.1.0">Download</a>
     ·
-    <a href="https://github.com/sahilarun/">Request Feature</a>
+    <a href="https://github.com/sahilarun/iSoulZ/issues">Request Bug</a>
   </p>
 </p>
 <!-- ABOUT THE PROJECT -->
