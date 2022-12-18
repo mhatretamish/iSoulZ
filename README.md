@@ -66,3 +66,17 @@ Check it yourself :)
  By Donating, You Will Help Me To Maintain This Project 
 
 - [PayPal](https://www.paypal.me/SahilArun0)
+
+
+[version-shield]: https://img.shields.io/github/package-json/v/sahilarun/iSoulZ?style=for-the-badge
+[version-url]: https://github.com/sahilarun/Routenote-website
+[contributors-shield]: https://img.shields.io/github/contributors/sahilarun/iSoulZ.svg?style=for-the-badge
+[contributors-url]: https://github.com/sahilarun/iSoulZ/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/sahilarun/iSoulZ.svg?style=for-the-badge
+[forks-url]: https://github.com/sahilarun/iSoulZ/network/members
+[stars-shield]: https://img.shields.io/github/stars/sahilarun/iSoulZ.svg?style=for-the-badge
+[stars-url]: https://github.com/sahilarun/iSoulZ/stargazers
+[issues-shield]: https://img.shields.io/github/issues/sahilarun/iSoulZ.svg?style=for-the-badge
+[issues-url]: https://github.com/sahilarun/iSoulZ/issues
+[license-shield]: https://img.shields.io/github/license/sahilarun/iSoulZ.svg?style=for-the-badge
+[license-url]: https://github.com/sahilarun/iSoulZ/blob/master/LICENSE
