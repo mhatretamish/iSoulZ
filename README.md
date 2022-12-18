@@ -1,5 +1,7 @@
  [![Contributors][contributors-shield]][contributors-url]
-[![Issues][issues-shield]][issues-url]
+ [![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![Version][version-shield]](version-url)
 <center><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=iSoulZ&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient" /></center>
 
 
@@ -70,7 +72,7 @@ Check it yourself :)
 
 
 [version-shield]: https://img.shields.io/github/package-json/v/sahilarun/iSoulZ?style=for-the-badge
-[version-url]: https://github.com/sahilarun/Routenote-website
+[version-url]: https://github.com/sahilarun/iSoulZ
 [contributors-shield]: https://img.shields.io/github/contributors/sahilarun/iSoulZ.svg?style=for-the-badge
 [contributors-url]: https://github.com/sahilarun/iSoulZ/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/sahilarun/iSoulZ.svg?style=for-the-badge
