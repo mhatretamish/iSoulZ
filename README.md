@@ -1,4 +1,8 @@
-  <center><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Routenote&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient" /></center>
+ [![Contributors][contributors-shield]][contributors-url]
+           [![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+<center><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=iSoulZ&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient" /></center>
 
 
 <!-- PROJECT LOGO -->
