@@ -15,7 +15,7 @@
     A music player made in flutter
     <br />
     <br />
-    <a href="https://github.com/sahilarun/">Report Bug</a>
+    <a href="https://github.com/sahilarun/iSoulZ/releases/tag/v0.1.0">Download</a>
     ·
     <a href="https://github.com/sahilarun/">Request Feature</a>
   </p>
