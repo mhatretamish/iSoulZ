@@ -1,3 +1,6 @@
+  <center><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Routenote&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient" /></center>
+
+
 <!-- PROJECT LOGO -->
   <h3 align="center">iSoulZ</h3>
 
