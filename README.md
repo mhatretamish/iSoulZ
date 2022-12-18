@@ -7,7 +7,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/brblacky/WaveMusic">
-    <img src="https://media.discordapp.net/attachments/963097935820750878/963098304483328030/20220411_160253.png" alt="Pbot-plus" width="200" height="200">
+    <img src="Launcher.png" alt="Pbot-plus" width="200" height="200">
   </a>
   <h3 align="center">iSoulZ</h3>
 
