@@ -22,8 +22,6 @@
 </p>
 <!-- ABOUT THE PROJECT -->
 
-## 🌀 About
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sahilarun&repo=Routenote-website&theme=tokyonight)](https://github.com/PagalLadka0001/Routenote-website)
 
 ## 🌟 Features
 - [x] Best Streaming Quality (320kbps aac)
