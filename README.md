@@ -8,8 +8,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/brblacky/WaveMusic">
-    <img src="Launcher.png" alt="Pbot-plus" width="200" height="200">
+  <a href="https://github.com/sahilarun/iSoulZ">
+    <img src="Launcher.png" alt="Pbot-plus" width="100" height="100">
   </a>
   <h3 align="center">iSoulZ</h3>
 
