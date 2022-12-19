@@ -20,6 +20,7 @@
 </p>
 <!-- ABOUT THE PROJECT -->
 
+ [![made-with-flutter](https://img.shields.io/badge/Made%20with-Flutter-1f425f.svg)](https://flutter.dev/) ![Release](https://img.shields.io/github/v/release/sahilarun/iSoulZ) ![Downloads](https://img.shields.io/github/downloads/sahilarun/iSoulZ/total)
 
 ## 🌟 Features
 - [x] Best Streaming Quality (320kbps aac)
