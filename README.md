@@ -1,7 +1,4 @@
- [![Contributors][contributors-shield]][contributors-url]
- [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![Version][version-shield]](version-url)
+
 <center><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=iSoulZ&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient" /></center>
 
 
@@ -12,8 +9,7 @@
     <img src="Launcher.png" alt="Pbot-plus" width="100" height="100">
   </a>
   <h3 align="center">iSoulZ</h3>
-
-  <p align="center">
+ <p align="center">
     A music player made in flutter
     <br />
     <br />
