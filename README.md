@@ -1,26 +1,30 @@
 
-<center><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=iSoulZ&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient" /></center>
+<center><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=BeatsBuddy&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient" /></center>
 
 
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
   <a href="https://github.com/sahilarun/iSoulZ">
-    <img src="Launcher.png" alt="Pbot-plus" width="100" height="100">
+    <img src="ic_launcher.png" alt="Pbot-plus" width="100" height="100">
   </a>
-  <h3 align="center">iSoulZ</h3>
+  <h3 align="center">BeatsBuddy</h3>
  <p align="center">
-    A music player made in flutter
+    A Revolution In the Music Industry.
     <br />
     <br />
-    <a href="https://github.com/sahilarun/iSoulZ/releases/tag/v0.1.0">Download</a>
+    <a href="https://github.com/ShubhAgrwal/BeatsBuddy/releases/tag/v0.1.0">Download</a>
     ·
-    <a href="https://github.com/sahilarun/iSoulZ/issues">Request Bug</a>
+    <a href="https://github.com/ShubhAgrwal/BeatsBuddy/issues">Request Bug</a>
   </p>
 </p>
 <!-- ABOUT THE PROJECT -->
 
- [![made-with-flutter](https://img.shields.io/badge/Made%20with-Flutter-1f425f.svg)](https://flutter.dev/) ![Release](https://img.shields.io/github/v/release/sahilarun/iSoulZ) ![Downloads](https://img.shields.io/github/downloads/Sangwan5688/BlackHole/total)
+ [![Android](https://img.shields.io/badge/Platform-Android-green.svg?style=flat-square)](https://www.android.com) [![API](https://img.shields.io/badge/API-27%2B-orange.svg?logo=android&style=flat-square)](https://developer.android.com/studio/releases/platforms) [![Release](https://img.shields.io/github/v/release/ShubhAgrwal/BeatsBuddy?style=flat-square)](https://github.com/ShubhAgrwal/BeatsBuddy/releases)
+
+ **Download**
+
+ [![Download](https://img.shields.io/github/downloads/ShubhAgrwal/BeatsBuddy/total?color=brightgreen&label=Download&style=for-the-badge)](https://github.com/ShubhAgrwal/BeatsBuddy/releases/tag/v1.15.9/)
 
 ## 🌟 Features
 - [x] Best Streaming Quality (320kbps aac)
@@ -60,23 +64,22 @@
 and much more...
 Check it yourself :)
 
-
 # Donate
 
  By Donating, You Will Help Me To Maintain This Project 
 
-- [PayPal](https://www.paypal.me/SahilArun0)
+- [Upi](https://www.paypal.com/paypalme/ShubhAgarwal02)
 
 
-[version-shield]: https://img.shields.io/github/package-json/v/sahilarun/iSoulZ?style=for-the-badge
+[version-shield]: https://img.shields.io/github/package-json/v/ShubhAgrwal/BeatsBuddy?style=for-the-badge
 [version-url]: https://github.com/sahilarun/iSoulZ
-[contributors-shield]: https://img.shields.io/github/contributors/sahilarun/iSoulZ.svg?style=for-the-badge
-[contributors-url]: https://github.com/sahilarun/iSoulZ/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/sahilarun/iSoulZ.svg?style=for-the-badge
-[forks-url]: https://github.com/sahilarun/iSoulZ/network/members
-[stars-shield]: https://img.shields.io/github/stars/sahilarun/iSoulZ.svg?style=for-the-badge
-[stars-url]: https://github.com/sahilarun/iSoulZ/stargazers
-[issues-shield]: https://img.shields.io/github/issues/sahilarun/iSoulZ.svg?style=for-the-badge
-[issues-url]: https://github.com/sahilarun/iSoulZ/issues
-[license-shield]: https://img.shields.io/github/license/sahilarun/iSoulZ.svg?style=for-the-badge
-[license-url]: https://github.com/sahilarun/iSoulZ/blob/master/LICENSE
+[contributors-shield]: https://img.shields.io/github/contributors/ShubhAgrwal/BeatsBuddy.svg?style=for-the-badge
+[contributors-url]: https://github.com/ShubhAgrwal/BeatsBuddy/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/ShubhAgrwal/BeatsBuddy.svg?style=for-the-badge
+[forks-url]: https://github.com/ShubhAgrwal/BeatsBuddy/network/members
+[stars-shield]: https://img.shields.io/github/stars/ShubhAgrwal/BeatsBuddy.svg?style=for-the-badge
+[stars-url]: https://github.com/ShubhAgrwal/BeatsBuddy/stargazers
+[issues-shield]: https://img.shields.io/github/issues/ShubhAgrwal/BeatsBuddy.svg?style=for-the-badge
+[issues-url]: https://github.com/ShubhAgrwal/BeatsBuddy/issues
+[license-shield]: https://img.shields.io/github/license/ShubhAgrwal/BeatsBuddy.svg?style=for-the-badge
+[license-url]: https://github.com/ShubhAgrwal/BeatsBuddy/blob/master/LICENSE
